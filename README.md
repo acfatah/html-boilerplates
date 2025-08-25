@@ -9,7 +9,7 @@ Collection of html boilerplates or templates.
 
 ## Usage
 
-Create an empty  directory, cd to it then run the following command:
+Create an empty directory, cd to it then run the following command:
 
 `npm`:
 
@@ -24,4 +24,3 @@ bunx --bun tiged acfatah/html-boilerplate/templates/starter
 ```
 
 You can replace `/starter` with any directory name under templates directory that is available as a template.
-
