@@ -14,13 +14,13 @@ Create an empty directory, cd to it then run the following command:
 `npm`:
 
 ```bash
-npx tiged acfatah/html-boilerplate/templates/starter
+npx tiged acfatah/html-boilerplates/templates/starter
 ```
 
 `bun`:
 
 ```bash
-bunx --bun tiged acfatah/html-boilerplate/templates/starter
+bunx --bun tiged acfatah/html-boilerplates/templates/starter
 ```
 
 You can replace `/starter` with any directory name under templates directory that is available as a template.
