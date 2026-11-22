@@ -1,8 +1,8 @@
-# HTML Boilerplate
+# HTML Boilerplates
 
 <p>
-  <a href="https://github.com/acfatah/html-boilerplate/commits/main">
-  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/acfatah/html-boilerplate?display_timestamp=committer&style=flat-square"></a>
+  <a href="https://github.com/acfatah/html-boilerplates/commits/main">
+  <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/acfatah/html-boilerplates?display_timestamp=committer&style=flat-square"></a>
 </p>
 
 Collection of html boilerplates or templates.
